@@ -5,6 +5,17 @@ body {
 	background: #171717;
 	color: white;
 }
+.navbar {
+	padding: 0px;
+}
+.container-fluid {
+	font-family: "Roboto", sans-serif;
+	font-size: 16px;
+	font-weight: 500;
+	padding-top: 51px;
+	padding-bottom: 48px;
+	background-color: #202020;
+}
 
 h1,
 h2,
@@ -14,15 +25,18 @@ h3 {
 h2 {
 	font-weight: bold;
 	font-size: 24px;
+	margin-bottom: 25px;
 }
 h1 {
 	font-size: 72px;
 	font-weight: bold;
 	letter-spacing: 0.1em;
+	margin-bottom: 25px;
 }
 h3 {
 	font-size: 18px;
-	font-weight: normal;
+	font-weight: 400;
+	line-height: 30px;
 }
 
 .button_main {
@@ -31,19 +45,20 @@ h3 {
 	font-weight: bold;
 	padding: 18px 40px;
 	border-radius: 50px;
+	margin-top: 48px;
+	margin-bottom: 301px;
 	letter-spacing: 0.1em;
 }
 
 .head_block {
-	padding-top: 276px;
-	padding-bottom: 301px;
 	background-image: url(../img/bg.png);
 	background-position: top;
 	background-repeat: no-repeat;
-	background-size: auto 800px;
 	background-color: #202020;
-	background-blend-mode: none;
+	background-size: 1440px auto;
 }
 .head_block_text {
 	text-align: center;
+	margin-top: 158px;
+	margin-bottom: 301px;
 }
