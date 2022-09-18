@@ -37,6 +37,7 @@ h3 {
 	font-size: 18px;
 	font-weight: 400;
 	line-height: 30px;
+	margin-bottom: 0px;
 }
 
 .button_main {
@@ -45,7 +46,7 @@ h3 {
 	font-weight: bold;
 	padding: 18px 40px;
 	border-radius: 50px;
-	margin-top: 48px;
+	margin-top: 40px;
 	margin-bottom: 301px;
 	letter-spacing: 0.1em;
 }
@@ -54,13 +55,12 @@ h3 {
 	background-image: url(../img/bg.png);
 	background-position: top;
 	background-repeat: no-repeat;
-	background-color: #202020;
+	background-color: #212121;
 	background-size: 1440px auto;
 }
 .head_block_text {
 	text-align: center;
-	margin-top: 158px;
-	margin-bottom: 301px;
+	margin-top: 138px;
 }
 
 .img_main {
@@ -88,4 +88,23 @@ h3 {
 }
 .icons {
 	margin: auto 30px;
+}
+.navigator {
+	color: white !important;
+	font-family: "Roboto", sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 16px;
+}
+.navigator-text {
+	text-align: right !important;
+	flex-grow: 0;
+	margin-right: 140px;
+}
+
+.navigator-icon {
+	margin-left: 140px;
+}
+.nav-item {
+	padding-left: 20px;
 }
