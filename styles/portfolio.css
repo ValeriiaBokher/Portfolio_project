@@ -64,7 +64,10 @@ h3 {
 }
 
 .img_main {
-	padding: 40px;
+	padding: 25px;
 	margin-left: 0px;
 	margin-right: 0px;
+}
+.photos {
+	margin: 100px auto;
 }
