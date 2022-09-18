@@ -1,1 +1,49 @@
+/* font-family: 'Josefin Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif; */
+body {
+	background: #171717;
+	color: white;
+}
 
+h1,
+h2,
+h3 {
+	font-family: "Roboto", sans-serif;
+}
+h2 {
+	font-weight: bold;
+	font-size: 24px;
+}
+h1 {
+	font-size: 72px;
+	font-weight: bold;
+	letter-spacing: 0.1em;
+}
+h3 {
+	font-size: 18px;
+	font-weight: normal;
+}
+
+.button_main {
+	font-family: "Montserrat", sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 18px 40px;
+	border-radius: 50px;
+	letter-spacing: 0.1em;
+}
+
+.head_block {
+	padding-top: 276px;
+	padding-bottom: 301px;
+	background-image: url(../img/bg.png);
+	background-position: top;
+	background-repeat: no-repeat;
+	background-size: auto 800px;
+	background-color: #202020;
+	background-blend-mode: none;
+}
+.head_block_text {
+	text-align: center;
+}
