@@ -71,3 +71,21 @@ h3 {
 .photos {
 	margin: 100px auto;
 }
+.bottom_nav {
+	background-color: #282323;
+	padding: 40px;
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 19px;
+}
+.thirdcol {
+	text-align: right;
+}
+.secondcol {
+	text-align: center;
+}
+.icons {
+	margin: auto 30px;
+}
