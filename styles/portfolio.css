@@ -108,3 +108,12 @@ h3 {
 .nav-item {
 	padding-left: 20px;
 }
+
+.icons_main_page {
+	text-decoration: none;
+	color: #ffffff;
+}
+.icons_main_page:hover {
+	text-decoration: none;
+	color: #ffffff;
+}
