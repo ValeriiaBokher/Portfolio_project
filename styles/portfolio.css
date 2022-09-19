@@ -207,3 +207,41 @@ body {
 .right-block {
 	padding-left: 40px;
 }
+
+.top-line {
+	background-color: #202020;
+	height: 118px;
+	border: none;
+}
+
+.h1-contact {
+	font-size: 72px;
+	font-weight: bold;
+	margin-top: 32px;
+	margin-bottom: 142px;
+	letter-spacing: 0.1em;
+	line-height: 84px;
+}
+.main-block-contact {
+	font-family: "Roboto", sans-serif;
+	text-align: center;
+}
+.h2-cont {
+	font-size: 14px;
+	font-weight: 400;
+	letter-spacing: 0.1em;
+	color: #f65282;
+	margin-bottom: 10px;
+}
+p {
+	font-size: 18px;
+	font-weight: 400;
+}
+.contact-div {
+	margin-bottom: 40px;
+}
+
+.contact-bottom {
+	margin-top: 45px;
+	margin-bottom: 73px;
+}
