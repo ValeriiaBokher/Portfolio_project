@@ -86,10 +86,26 @@ body {
 	left: 0;
 	bottom: 0;
 	width: 100%;
-	height: 105px;
+	height: 140px;
 }
 .cont-icons {
 	margin-right: 10px;
+}
+
+.VB {
+	text-align: center;
+}
+.Valeriia {
+	color: #ffffff;
+}
+
+.Valeriia:hover {
+	text-decoration: none;
+	color: #ffffff;
+}
+.Valeriia:visited {
+	text-decoration: none;
+	color: #ffffff;
 }
 
 .thirdcol {
