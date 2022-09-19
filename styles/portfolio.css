@@ -88,6 +88,9 @@ body {
 	width: 100%;
 	height: 105px;
 }
+.cont-icons {
+	margin-right: 10px;
+}
 
 .thirdcol {
 	text-align: right;
